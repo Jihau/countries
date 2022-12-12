@@ -1,0 +1,19 @@
+body {
+    background-color: #203131;
+    color: rgba(196, 241, 241, 0.82);
+    font-family: "Courier New", sans-serif;
+}
+
+input {
+    background-color: #131e1e;
+    border-width: 0;
+    color: azure;
+    font-family: "Courier New", sans-serif;
+}
+
+button {
+    background-color: darkslategray;
+    font-family: "Courier New", sans-serif;
+    color: azure;
+    border-width: 0;
+}
